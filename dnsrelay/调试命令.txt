@@ -1,0 +1,4 @@
+cd C:\Users\suyiw\Desktop\dnshhh\bin\Debug
+dnshhh
+dnshhh -d 192.168.0.1  d:\\dns-table.txt
+dnshhh -dd 202.99.96.68 
